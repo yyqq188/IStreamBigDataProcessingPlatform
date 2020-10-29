@@ -1,6 +1,0 @@
-db.sqlite3
-/static
-/templates
-/__pycache__
-/.gitignore
-
