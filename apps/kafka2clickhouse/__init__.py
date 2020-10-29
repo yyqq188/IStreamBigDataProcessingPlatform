@@ -1,0 +1,1 @@
+default_app_config="kafka2clickhouse.apps.Kafka2ClickhouseConfig"
