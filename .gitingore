@@ -1,5 +1,6 @@
 db.sqlite3
-static/
-templates/
-.idea/
-__pycache__/
+/static
+/templates
+/__pycache__
+/.gitignore
+

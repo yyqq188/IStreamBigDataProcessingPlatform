@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61977543-36c5-4c81-81a4-44eb40e1e793" name="Default Changelist" comment="" />
+    <list default="true" id="61977543-36c5-4c81-81a4-44eb40e1e793" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitingore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitingore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitingore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <state relative-caret-position="44">
+              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -242,12 +244,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603850386327</updated>
-      <workItem from="1603850387873" duration="15395000" />
+      <workItem from="1603850387873" duration="15584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15395000" />
+    <option name="totallyTimeSpent" value="15584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="-6" width="1869" height="1086" extended-state="6" />
@@ -463,8 +465,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitingore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        <state relative-caret-position="44">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
